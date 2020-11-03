@@ -1,2 +1,0 @@
-
-printf(%d，"Hallo world");
